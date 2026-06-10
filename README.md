@@ -9,21 +9,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DiegoLucioFarahSoares&hide=contribs&show_icons=true&count_private=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLucioFarahSoares&theme=radical&layout=compact" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 **Frontend**
