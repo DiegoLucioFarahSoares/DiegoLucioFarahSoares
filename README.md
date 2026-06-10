@@ -7,6 +7,26 @@
 
 ---
 
+## 📊 Estatísticas
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DiegoLucioFarahSoares&hide=contribs&show_icons=true&hide_rank=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLucioFarahSoares&theme=radical&layout=compact" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=DiegoLucioFarahSoares&theme=radical&hide_border=true&locale=pt_BR" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 **Frontend**
